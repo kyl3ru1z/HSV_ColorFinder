@@ -5,3 +5,6 @@ Uses OpenCV to find the HSV values of a certain color. Put the object that you w
 - applying masks in real-time 
 - using HSV values for color detection
 - Utilizing track bars in OpenCV
+
+# Demo 
+<img src="gifs/hsv_colorfinder.gif" height="450">
